@@ -1231,16 +1231,16 @@
         },
         {
             "name": "jomweb/billplz",
-            "version": "v3.3.0",
+            "version": "v3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jomweb/billplz.git",
-                "reference": "26cc0126914596ba55374b2d97608157c814cb92"
+                "reference": "efb002fa5c0a76544d19a3cd3e65f73e69cf2851"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jomweb/billplz/zipball/26cc0126914596ba55374b2d97608157c814cb92",
-                "reference": "26cc0126914596ba55374b2d97608157c814cb92",
+                "url": "https://api.github.com/repos/jomweb/billplz/zipball/efb002fa5c0a76544d19a3cd3e65f73e69cf2851",
+                "reference": "efb002fa5c0a76544d19a3cd3e65f73e69cf2851",
                 "shasum": ""
             },
             "require": {
@@ -1277,7 +1277,7 @@
                 }
             ],
             "description": "PHP Agnostic library for working with BillPlz API",
-            "time": "2019-10-12T08:21:37+00:00"
+            "time": "2019-10-18T02:52:42+00:00"
         },
         {
             "name": "jomweb/billplz-laravel",
@@ -1841,16 +1841,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.56",
+            "version": "1.0.57",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "90e3f83cb10ef6b058d70f95267030e7a6236518"
+                "reference": "0e9db7f0b96b9f12dcf6f65bc34b72b1a30ea55a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/90e3f83cb10ef6b058d70f95267030e7a6236518",
-                "reference": "90e3f83cb10ef6b058d70f95267030e7a6236518",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/0e9db7f0b96b9f12dcf6f65bc34b72b1a30ea55a",
+                "reference": "0e9db7f0b96b9f12dcf6f65bc34b72b1a30ea55a",
                 "shasum": ""
             },
             "require": {
@@ -1921,7 +1921,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2019-10-12T13:05:59+00:00"
+            "time": "2019-10-16T21:01:05+00:00"
         },
         {
             "name": "league/oauth1-client",
