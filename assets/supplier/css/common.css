@@ -1,0 +1,57 @@
+
+/* Invoice Area Css Start */
+
+
+
+.invoice__orderDetails span{
+    font-size: 14px;
+}
+.invoice__orderDetails p{
+    margin-bottom: 0px;
+}
+
+.invoice__shipping span{
+    font-size: 14px;
+}
+.invoice__shipping p{
+    margin-bottom: 0px;
+}
+.invoice__metaInfo span{
+    font-size: 14px;
+}
+.invoice__metaInfo p{
+    margin-bottom: 0px;
+}
+.invoice_table .table thead th {
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+.invoice_table .table > tbody > tr > td,
+.invoice_table .table > tbody > tr > th {
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    font-size: 14px;
+}
+
+.invoice_table .table > tbody > tr > td p,
+.invoice_table .table > tbody > tr > th  p{
+    font-size: 14px;
+}
+.invoice_table .table > tbody > tr > td p {
+    display: flex;
+    margin-bottom: 0px;
+}
+.invoice_table .table > tbody > tr > td p strong{
+    margin-right: 5px;
+}
+.add-newProduct-btn.print{
+    background: rgb(0, 177, 0);
+}
+.add-newProduct-btn.print:hover{
+    background: rgb(0, 141, 0);
+}
+/* Invoice Area Css End */
+
+
+.input-group.colorpicker-component.cp.colorpicker-element {
+    margin-bottom: 20px;
+}
